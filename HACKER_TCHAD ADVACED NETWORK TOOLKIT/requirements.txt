@@ -1,0 +1,14 @@
+socket
+requests
+dns.resolver
+dns.reversename
+dns.zone
+whois
+subprocess
+platform
+os
+json
+re
+time
+sys
+beautifulSoup
